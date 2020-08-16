@@ -9,7 +9,7 @@ I was basically motivated to write this for Quizac after searching different plu
 paid and the free ones tends to be way limited in their functions and configuration. 
 
 ## Screenshots
-
+![ScreenShot](https://tadesamson.com/img/roulette_screenshot.png)
 
 
 ## Installation
