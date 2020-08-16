@@ -63,7 +63,7 @@ through their detail tutorial on html5 canvas.
 
 
 ## Care To Read More? 
-[Read more on my dropbox paper page here](https://paper.dropbox.com/doc/QuizacWheel.js-Documentation--A5zBWH6Vxb2jV50NF9rPDhXMAg-X2Y3MlZ8ItfTYI0ZHYs1l)
+[Read more on the implementation details on this paper article](https://paper.dropbox.com/doc/QuizacWheel.js-Documentation--A5zBWH6Vxb2jV50NF9rPDhXMAg-X2Y3MlZ8ItfTYI0ZHYs1l)
 
 
 
