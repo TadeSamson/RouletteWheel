@@ -9,13 +9,15 @@ I was basically motivated to write this for Quizac after searching different plu
 paid and the free ones tends to be way limited in their functions and configuration. 
 
 ## Screenshots
-![ScreenShot](https://tadesamson.com/img/roulette_screenshot.png)
+![ScreenShot](https://tadesamson.com/img/roulette_screenshot.gif)
 
 
 ## Installation
 npm install tadesamson-roulette
 
 ## Usage
+
+> Javascript
 
 ```
 var rewards:[{text:'SmartWatch', fillStyle:'#0996F2', image:'https://res.cloudinary.com/thribyte-technologies/image/upload/v1590590237/rewards/wheel/reward_wheel_smartwatch.png', degree:45 },
@@ -46,8 +48,13 @@ alert(`Hehe! ${reward.text}`);
 }
 roulette.initializeWheel();
 roulette.startAnimation();
-H
 
+```
+
+> Html
+```
+<canvas id="canvas" style="display:none;">
+</canvas>
 ```
 
 ## Credit
