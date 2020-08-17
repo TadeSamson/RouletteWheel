@@ -5,8 +5,11 @@ A full customized light weight reward wheel plugin made with JavaScript with No 
 The demo for this project can be found on my [static website](https://tadesamson.com/roulette.html)
 
 ## Motivation
-I was basically motivated to write this for Quizac after searching different plugins many of which turns out to be 
-paid and the free ones tends to be way limited in their functions and configuration. 
+I was basically motivated to write this for Quizac after searching different roulette plugin online and 
+observing they all have 1 thing in common, multiple external libraries (animation libraries, sound libries), making the roulette itself
+ridiculously heavy even for the paid ones. This being the complain of most developers using them, I set out
+to write one with no external library and with a relatively small size to make developers happy. Here, I present to you my roulette adding 
+just 16KB size to your project compare to about 554KB by similar plugins.
 
 ## Screenshots
 ![ScreenShot](https://tadesamson.com/img/roulette_screenshot.gif)
